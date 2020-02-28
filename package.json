@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "To get random star wars ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AashishShri/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Aashish <Aashish.shrivastava2015@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AashishShri/starwars-names/issues"
+  },
+  "homepage": "https://github.com/AashishShri/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
