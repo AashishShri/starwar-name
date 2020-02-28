@@ -10,5 +10,6 @@ notifications:
   email: false
 before_script:
   - npm prune
+  - npm test
 after_success:
   - npm run semantic-release
