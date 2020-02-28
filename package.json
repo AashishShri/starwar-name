@@ -1,6 +1,6 @@
 {
-  "name": "starwars-names",
-  "version": "1.0.0",
+  "name": "starwar-name",
+  "version": "1.1.0",
   "description": "To get random star wars ",
   "main": "src/index.js",
   "scripts": {
