@@ -1,14 +1,15 @@
 {
   "name": "starwar-name-aashish",
-  "version": "1.2.0",
+  "version": "0.0.0-development",
   "description": "To get random star wars ",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AashishShri/starwar-name-aashish.git"
+    "url": "https://github.com/AashishShri/starwar-name-aashish.git"
   },
   "keywords": [
     "random",
@@ -23,5 +24,8 @@
   "homepage": "https://github.com/AashishShri/starwar-name-aashish#readme",
   "dependencies": {
     "unique-random-array": "2.0.0"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.0.4"
   }
 }
