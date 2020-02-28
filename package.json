@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AashishShri/starwars-names.git"
+    "url": "git+https://github.com/AashishShri/starwar-name.git"
   },
   "keywords": [
     "random",
@@ -18,9 +18,9 @@
   "author": "Aashish <Aashish.shrivastava2015@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AashishShri/starwars-names/issues"
+    "url": "https://github.com/AashishShri/starwar-name/issues"
   },
-  "homepage": "https://github.com/AashishShri/starwars-names#readme",
+  "homepage": "https://github.com/AashishShri/starwar-name#readme",
   "dependencies": {
     "unique-random-array": "2.0.0"
   }
