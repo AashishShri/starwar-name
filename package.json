@@ -1,6 +1,6 @@
 {
   "name": "starwar-name-aashish",
-  "version": "0.1.0-development",
+  "version": "1.2.0-development",
   "description": "To get random star wars ",
   "main": "src/index.js",
   "scripts": {
